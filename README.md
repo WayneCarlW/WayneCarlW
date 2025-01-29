@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WayneCarlW
-- 👀 I’m interested in python programming, IoT and Artificial intelligence 
+- 👀 I’m interested in anyand all programming, IoT and Artificial intelligence 
 - 🌱 I’m currently a student taking Bsc Computer Science at Kabarak University 
 - 💞️ I’m looking to collaborate on community projects 
 - 📫 How to reach me ...
